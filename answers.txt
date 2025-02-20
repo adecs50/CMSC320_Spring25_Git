@@ -4,3 +4,9 @@ Answer: [Because its a good source of cloud storage]
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: [the field of healthcare and example is to analyze patient data to predict disease risk, optimize treatment plans, and identify potential outbreaks by analyzing large datasets of medical records and patient demographics]
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: [merging combines branches while preserving history, while rebasing rewrites history by moving commits to the beginning of another branch]
+
+
